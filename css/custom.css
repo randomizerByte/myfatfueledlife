@@ -168,7 +168,7 @@ img::-moz-selection {
 
 /*Navbar Color*/
 #mainNav {
-  background-color:#95a1ac;
+  background-color:white;
 }
 
 /* Navbar Toggle */
@@ -226,7 +226,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color:#95a1ac;  
+    background-color:white;  
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
