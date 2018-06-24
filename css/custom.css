@@ -184,7 +184,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color:black;
+  color:#f89c26;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -238,7 +238,6 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
