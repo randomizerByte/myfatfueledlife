@@ -149,12 +149,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #fc7f26;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #fc7f26;
   text-shadow: none;
 }
 
@@ -179,12 +179,12 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #95ac95;
+  background-color: white;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color:#f89c26;
+  color:#fc7f26;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -760,5 +760,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #fc7f26;
 }
