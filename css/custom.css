@@ -99,7 +99,7 @@ img::-moz-selection {
 
 /*Navbar Color*/
 #mainNav {
-  background-color:#95a1ac;
+  background-color:whitesmoke;
 }
 
 /* Navbar Toggle */
@@ -110,7 +110,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #95ac95;
+  background-color: #fc7f26;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -157,7 +157,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color:#95a1ac;  
+    background-color:white;  
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
