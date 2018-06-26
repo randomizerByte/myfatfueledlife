@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: #fec503;
+  color: #fc7f26;
 }
 
 .text-primary {
@@ -66,12 +66,12 @@ section h3.section-subheading {
 /*Button Color*/
 .btn-primary {
   background-color:#fc7f26;
-  border-color: #a195ac;
+  border-color:#fc7f26;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #9595ac !important;
-  border-color: #a195ac !important;
+  background-color: #fed136 !important;
+  border-color: #fc7f26 !important;
   color: white;
 }
 
@@ -692,5 +692,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #fc7f26;
 }
