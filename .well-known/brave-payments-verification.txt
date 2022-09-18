@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: myfatfueledlife.com
+Token: 2443bb22ee22327230d7b6ea7500058c81905fa8ca0b39f043b73510c5b36803
